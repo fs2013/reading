@@ -1,7 +1,7 @@
 # reading
 
 ## some online sources:
-http://elitetrader.com
+http://elitetrader.com<br>
 
 http://nuclearphynance.com
 
