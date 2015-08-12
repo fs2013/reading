@@ -2,7 +2,6 @@
 
 ## some online sources:
 http://elitetrader.com<br>
-
 http://nuclearphynance.com
 
 http://Hightable.com
