@@ -2,11 +2,9 @@
 
 ## some online sources:
 http://elitetrader.com<br>
-http://nuclearphynance.com
-
-http://Hightable.com
-
-http://Quora.com
+http://nuclearphynance.com<br>
+http://Hightable.com<br>
+http://Quora.com<br>
 
 ## author's blog: 
 http://epchan.blogspot.com
