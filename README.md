@@ -1,7 +1,7 @@
 # plan
 +    write own first qtopian (https://github.com/fs2013/reading/wiki/Home)
 +    continue reading
-+    open ib / thinkorswim account?    
++    open ib/thinkorswim account?    
 
 # reading
 
