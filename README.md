@@ -1,5 +1,5 @@
 # plan
-+    write own first qtopian (https://github.com/fs2013/reading/wiki)
++    write own first qtopian (https://github.com/fs2013/reading/wiki/Home)
 +    continue reading
     
 
