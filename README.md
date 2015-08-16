@@ -1,6 +1,7 @@
 # plan
 +    write own first qtopian (https://github.com/fs2013/reading/wiki/Home)
 +    continue reading
++    time serieis classification/clustering (http://nbviewer.ipython.org/github/alexminnaar/time-series-classification-and-clustering/blob/master/Time%20Series%20Classification%20and%20Clustering.ipynb)
 +    open ib/thinkorswim account?    
 
 # reading
