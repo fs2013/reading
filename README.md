@@ -1,3 +1,8 @@
+# plan
++    write own first qtopian (https://github.com/fs2013/reading/wiki)
++    continue reading
+    
+
 # reading
 
 ## some online sources:
