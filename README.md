@@ -1,3 +1,10 @@
+Plan to read and study
+======================
+
+1. finalize **qst**
+2. expertize **num, sci, skl, pand**
+3. 
+
 Cut your workday in half
 ========================
 
