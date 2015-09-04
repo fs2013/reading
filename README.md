@@ -3,7 +3,8 @@ Plan to read and study
 
 1. finalize **qst**
 2. expertize **num, sci, skl, pand**
-3. 
+3. know all about erni che
+
 
 Cut your workday in half
 ========================
