@@ -5,6 +5,16 @@ Plan to read and study
 2. expertize **num, sci, skl, pand**
 3. know all about erni che
 
+More to read list
+=================
+
+1. Building Winning Algorithmic Trading Systems, + Website: A Trader's Journey From Data Mining to Monte Carlo Simulation to Live Trading (Wiley Trading) 1st Edition
+by Kevin Davey  (Author)
+2. Trading Systems: A New Approach to System Development and Portfolio Optimisation Paperback – October 1, 2009
+by Emilio Tomasini  (Author), Urban Jaekle (Author)
+3. Trading Systems and Methods + Website (5th edition) Wiley Trading 5th Edition
+by Perry J. Kaufman  (Author)
+
 
 Cut your workday in half
 ========================
